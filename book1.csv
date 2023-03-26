@@ -1,7 +1,50 @@
-id,track_id,Producers
-12,4LRPiXqCikLlN15c3yImP7,Kid Harpoon
-12,4LRPiXqCikLlN15c3yImP7, Tyler Johnson
-13,4Dvkj6JhhA12EX05fT7y2e,Kid Harpoon
-13,4Dvkj6JhhA12EX05fT7y2e, Tyler Johnson
-15,2AxENVeUe1zFwr5a1vj8F1,Bell
-15,2AxENVeUe1zFwr5a1vj8F1, Harris
+album_id,album_type,album_name,release_date,total_tracks,track_id,track_name,Genre,Language,duration_ms,popularity,is_explicit,artist_id,artist_name,Label
+69JpAhN3XgLkOsJ7MCtW4V,single,Bad Habit,6/29/2022,1,5CM4UuQ9Gnd6K2YyKGPMoK,Bad Habit,,,232114,92,TRUE,57vWImR43h4CaDao012Ofp,Steve Lacy,
+3Ks0eeH0GWpY4AU20D5HPD,album,Gemini Rights,7/15/2022,10,4k6Uh1HXdhtusDW5y8Gbvy,Bad Habit,,,232066,89,TRUE,57vWImR43h4CaDao012Ofp,Steve Lacy,
+5vg6tTa6EHy0c9NNSOSM8T,single,Bad Habit (Sped Up),7/14/2022,2,4i7HqWsN7iJzsXpsW5h1nb,Bad Habit - Sped Up,,,191335,73,TRUE,57vWImR43h4CaDao012Ofp,Steve Lacy,
+4tRInpsZkScWnp3UWcdLTq,album,Gemini Rights,7/14/2022,10,1R7TwnwF1RuYNf5vXlpQUT,Bad Habit,,,232120,56,FALSE,57vWImR43h4CaDao012Ofp,Steve Lacy,
+5vg6tTa6EHy0c9NNSOSM8T,single,Bad Habit (Sped Up),7/14/2022,2,7z8hZD5ayg1RENca2KfCDK,Bad Habit,,,232114,47,TRUE,57vWImR43h4CaDao012Ofp,Steve Lacy,
+0omm5KaLtGyS4x13w0xxRO,single,Bad Lacy,9/24/2022,1,1zUPy6ji26710tPF1zagx4,Bad Lacy,,,212854,0,FALSE,6NWhcyb8YSDmDp1ZJTyO4E,Steve Habit,
+0gX9tkL5njRax8ymWcXARi,single,Unholy (feat. Kim Petras),9/22/2022,1,3nqQXoyQOWXiESFLlDF1hG,Unholy (feat. Kim Petras),,,156943,100,FALSE,2wY79sveU1sp5g7SokKOiI,Sam Smith,
+1Ta4wnFWj2Ej3JheWSdjtj,single,Unholy (feat. Kim Petras) [Disclosure Remix],10/14/2022,2,2Tl5fhF4itz5VeXHRVGIO5,Unholy (feat. Kim Petras) - Disclosure Remix,,,234411,64,FALSE,2wY79sveU1sp5g7SokKOiI,Sam Smith,
+1Ta4wnFWj2Ej3JheWSdjtj,single,Unholy (feat. Kim Petras) [Disclosure Remix],10/14/2022,2,7Cy3ctqrVQyNNKF7AjyDi6,Unholy (feat. Kim Petras),,,156943,56,FALSE,2wY79sveU1sp5g7SokKOiI,Sam Smith,
+5q2WZFrJpYs53Ky2PSjeIg,single,Unholy (feat. Kim Petras) [ACRAZE Remix],10/12/2022,3,0GuDafONucOb9Ux8VZXECP,Unholy (feat. Kim Petras),,,156943,44,FALSE,2wY79sveU1sp5g7SokKOiI,Sam Smith,
+5q2WZFrJpYs53Ky2PSjeIg,single,Unholy (feat. Kim Petras) [ACRAZE Remix],10/12/2022,3,2Jn3wcH9TSCFMQjlWreTft,Unholy (feat. Kim Petras) - ACRAZE Remix,,,176500,46,FALSE,2wY79sveU1sp5g7SokKOiI,Sam Smith,
+5q2WZFrJpYs53Ky2PSjeIg,single,Unholy (feat. Kim Petras) [ACRAZE Remix],10/12/2022,3,4y5CHkxTCrgi5coGEAMfMc,Unholy (feat. Kim Petras) - Disclosure Remix,,,234411,41,FALSE,2wY79sveU1sp5g7SokKOiI,Sam Smith,
+2pqdSWeJVsXAhHFuVLzuA8,single,As It Was,3/31/2022,1,4LRPiXqCikLlN15c3yImP7,As It Was,,,167303,95,FALSE,6KImCVD70vtIoJWnq6nGn3,Harry Styles,"Erskine, Columbia"
+5r36AJ6VOJtp00oxSkBZ5h,album,Harry's House,5/20/2022,13,4Dvkj6JhhA12EX05fT7y2e,As It Was,,,167303,92,FALSE,6KImCVD70vtIoJWnq6nGn3,Harry Styles,"Erskine, Columbia"
+3HHNR44YbP7XogMVwzbodx,album,Twelve Carat Toothache,6/3/2022,14,0O6u0VJ46W86TxN9wgyqDj,I Like You (A Happier Song) (with Doja Cat),,,192840,91,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,
+2TTQONBs9xOxCD8PQ14Gi9,compilation,Arbeitsmusik Herbst/Winter 2022/2023,10/20/2022,84,2AxENVeUe1zFwr5a1vj8F1,I Like You (A Happier Song),Pop-rap,,192840,0,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+02SRvzvwKNQJpqjdehWAif,album,Twelve Carat Toothache,6/3/2022,14,0prbvDtiY8FrZKEj8LF4Rs,I Like You (A Happier Song) (with Doja Cat),,,192840,68,FALSE,246dkjvS1zLTtiykXe5h60,Post Malone,
+50MzJhO0pMjTsfpeOmZ1so,album,Twelve Carat Toothache (Deluxe),6/7/2022,16,0EFehFdU9HbOBzxzJ60IjE,I Like You (A Happier Song) (with Doja Cat),,,192840,65,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,
+0beamuxE8UDA7ms0SNVcgy,album,Twelve Carat Toothache (Deluxe),6/7/2022,16,7ea701NxBUcd2HgXxf2oRT,I Like You (A Happier Song) (with Doja Cat),,,192840,46,FALSE,246dkjvS1zLTtiykXe5h60,Post Malone,
+0hFlB36Sa3H4JlpGwkvxRr,compilation,Power Hits,6/17/2022,44,0amo9u2fGTSJFHQGjDKb6z,I Like You (A Happier Song),Pop-rap,,192840,25,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+3owTw3bMIXgNRx830u2sip,compilation,AS IT WAS,6/24/2022,24,12O5JlmJ8vZsFoQhBw6cfk,I Like You (A Happier Song),Pop-rap,,192840,20,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+4gZwLnAcogO3osy0HTCOXU,compilation,Tik Tock 2022,9/29/2022,42,5I5YkM0OsFedRe314l229f,I Like You (A Happier Song),Pop-rap,,192840,9,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+6IQfb8wOvzuqug8kIMzSjT,compilation,TikTock Music 2022,8/19/2022,50,4zovIQU1XCDU4Xwt0PAhMJ,I Like You (A Happier Song),Pop-rap,,192840,11,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+3Qy08vf1RpsF5IoE8nvII1,compilation,Party Hits Mix,7/6/2022,72,34d4lBUedrcebxveL1CvkS,I Like You (A Happier Song),Pop-rap,,192840,8,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+77gfgPyUiI1qDwlUxAMaew,compilation,Best Pop 2022,9/14/2022,20,2DVKX1UUZcAFOiQsq5YG8v,I Like You (A Happier Song),Pop-rap,,192840,12,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+19Um3yVZtJpLtP1ryAxNXh,compilation,August 2022 Hits,7/27/2022,32,3C2GgztpWnGADCkc2f8PJ2,I Like You (A Happier Song),Pop-rap,,192840,11,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+34TMhGhBraAXql56LN0L1Z,compilation,I Like You (A Happier Song),9/23/2022,22,50sxoCH5s4BQPYBeBhA7rh,I Like You (A Happier Song),Pop-rap,,192840,9,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+1Kst9aD41T5jKOEWwJwNNG,compilation,Mega Hits Summer 2022,6/28/2022,129,7asQklKAKf1mmEFec8geNF,I Like You (A Happier Song),Pop-rap,,192840,8,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+1ZfJoIH7xVP4DvFy2roaN9,compilation,Best of 2022,10/4/2022,24,0tduttxnG0AFq7TrH80zAk,I Like You (A Happier Song),Pop-rap,,192840,9,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+3gUZ3T4WAlztuFUoE2ae9O,compilation,Donaukanal Party,6/30/2022,55,5OFTuBHzqfPF55CQ4G2Vvx,I Like You (A Happier Song),Pop-rap,,192840,4,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+51OX8AKpWwJ1KV8NeNGJtJ,compilation,Fall Hits 2022,7/12/2022,30,2r2nxXTPNZwAir9MItyZIr,I Like You (A Happier Song),Pop-rap,,192840,6,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+1D7zTZcZSq5AYODyoWNpCR,compilation,Feelgood Pop 2022,6/23/2022,60,2ezTQhR1uij1Eh3rPepJoB,I Like You (A Happier Song),Pop-rap,,192840,11,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+5mbbmfczHTgC5YCZseIITr,compilation,Zomer Hits 2022 | Hittegolf,8/22/2022,24,3Dv0ia9gUwSmKb8CLiy73V,I Like You (A Happier Song),Pop-rap,,192840,7,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+79LUwZkPsEWCTkw40GwqMY,compilation,Best Hip Hop 2022,9/16/2022,20,1rx9ddlGiPXKA3iqVm92qc,I Like You (A Happier Song),Pop-rap,,192840,8,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+3CVIexMmcnWlK1tic2dPfV,compilation,When Summer Ends,8/12/2022,12,70kOXsEmXo2DzJ8XxPp0QR,I Like You (A Happier Song),Pop-rap,,192840,5,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+2lpJyWIrAQVs8MVJZTXx1V,compilation,Car Music,6/29/2022,67,5lqlCguDpW8cKWLHks0x6l,I Like You (A Happier Song),Pop-rap,,192840,7,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+5nADvjW1bIJ8KoTxA6tbtt,compilation,Обратно в клас - pop,10/7/2022,31,1Opglli1f6hQT1sZGdEazb,I Like You (A Happier Song),Pop-rap,,192840,5,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+0hJbldcWfHQijug7QbTGlF,compilation,Rap Hits Automne 2022,9/21/2022,21,5Q3d3xXM8lQZZ6gISAUWTQ,I Like You (A Happier Song),Pop-rap,,192840,7,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+0NrACYymhXAdxYdyRxyfwA,compilation,Trending Fall Hits 2022,8/16/2022,28,7pAY9DTqIafqxPh6SZb0YK,I Like You (A Happier Song),Pop-rap,,192840,4,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+7J91CCCgudugLrM4aLZGrp,compilation,Strand + Sonne,7/25/2022,55,6wORIAYOsVh9mBGtz3pTcv,I Like You (A Happier Song),Pop-rap,,192840,14,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+3xG9AZpwaU8iu8CujXtyEx,compilation,Viral Hits: June 2022,6/28/2022,30,0OwzwsR9SyRp1LxEDUR1SZ,I Like You (A Happier Song),Pop-rap,,192840,8,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+6ZL0ANorJEaZeO2SvFN8S0,compilation,Hip Hop Gaming Music,7/18/2022,45,12UP3UuoDTbq2Zg5KQD7TK,I Like You (A Happier Song),Pop-rap,,192840,7,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+3qij4oTXmtf7c4zCq10dTB,compilation,Chill Mood,10/13/2022,20,1KWYxu0S9i174r8sYZOBud,I Like You (A Happier Song),Pop-rap,,192840,5,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+7eaJhU3GeMd3pHgXihrHXn,compilation,Hits Automne 2022,9/29/2022,22,4dAK4azHBzIhq0uL8jYwGM,I Like You (A Happier Song),Pop-rap,,192840,6,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+1IBsxDKAepIHwntAbNheFW,compilation,Summer Cool Songs,8/19/2022,32,1jQd9iNPRD6DprbuK6LPRw,I Like You (A Happier Song),Pop-rap,,192840,8,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+4Cy4tmBQm0eh18KojQVIel,compilation,Back 2 School,9/14/2022,54,2BlYNcRYw45JlqCjyrdK3c,I Like You (A Happier Song),Pop-rap,,192840,9,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+2pqy9z9mhrgyGDeFcC8EIs,compilation,Release Round Up Vol.3,9/21/2022,30,7GJYXfRXLmrR5s3kylY73K,I Like You (A Happier Song),Pop-rap,,192840,7,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+53yjGMo1JUhkPMi66itmEm,compilation,Hardcore Energy,10/13/2022,14,4q6PDil0fuzXdB0EhZrwZx,I Like You (A Happier Song),Pop-rap,,192840,2,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
+47Mgjqn7leuLfQsKdTW84K,compilation,Poletni Hiti,6/30/2022,34,6xkIFpyuxJ9jVbQ6P56QSl,I Like You (A Happier Song),Pop-rap,,192840,5,TRUE,246dkjvS1zLTtiykXe5h60,Post Malone,"Republic, Mercury"
